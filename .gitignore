@@ -1,6 +1,10 @@
 # .vscode idk
 .vscode/
 
+# test files
+main.c
+main.exe
+
 # Prerequisites
 *.d
 

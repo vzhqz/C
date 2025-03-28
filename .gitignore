@@ -1,3 +1,6 @@
+# .vscode idk
+.vscode/
+
 # Prerequisites
 *.d
 
@@ -29,7 +32,6 @@
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
